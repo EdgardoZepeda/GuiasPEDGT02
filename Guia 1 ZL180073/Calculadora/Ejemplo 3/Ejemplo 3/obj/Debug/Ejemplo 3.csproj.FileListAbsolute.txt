@@ -1,0 +1,11 @@
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.csproj.AssemblyReference.cache
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo_3.Form1.resources
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo_3.Properties.Resources.resources
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.csproj.GenerateResource.cache
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\bin\Debug\Ejemplo 3.exe.config
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\bin\Debug\Ejemplo 3.exe
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\bin\Debug\Ejemplo 3.pdb
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.exe
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Ejemplo 3\Ejemplo 3\obj\Debug\Ejemplo 3.pdb
