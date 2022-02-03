@@ -1,0 +1,11 @@
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\obj\Debug\Calculadora.Ejemplo1.resources
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Edgardo Zepeda\Desktop\Guias de PED\Guia 1 ZL180073\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
